@@ -6,7 +6,7 @@ import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 
-// per App
+// per Appp
 
 public class Main extends JFrame {
 
